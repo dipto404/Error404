@@ -1,1 +1,3 @@
-# Error404
+Flask==3.0.0
+requests==2.31.0
+urllib3==2.0.7
